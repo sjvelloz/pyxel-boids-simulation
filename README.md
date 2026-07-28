@@ -6,6 +6,9 @@ A 2D aquarium simulation and flocking algorithm built with Python and [Pyxel](ht
 ![Pyxel](https://img.shields.io/badge/Pyxel-Engine-FF0044?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
+<p align="center">
+  <img src="boid.gif" alt="Aquarium Simulation Demo" width="700"/>
+</p>
 
 ## Overview
 
